@@ -9,7 +9,8 @@ int main()
 {
 int a =1;
 int b =2;
+int c =0;
+printf ("%d %d",a+b,c);
 
-printf ("%d",a+b);
 return 0;
 }
